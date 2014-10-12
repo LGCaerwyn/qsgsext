@@ -482,7 +482,7 @@ INSERT INTO "zhangong" VALUES('cmr', '刺美人', 5, '使用祝融在1局游戏�
 INSERT INTO "zhangong" VALUES('pndjj', '破虏大将军', 5, '使用孙坚连续至少3回合在1体力时发动英魂', 0, 'wu', '1999-12-31 00:00:00', 'sunjian', 0, 0);
 INSERT INTO "zhangong" VALUES('zqxz', '指囷相赠', 5, '使用鲁肃在1局游戏中发动好施分给其他角色至少15张牌', 0, 'wu', '1999-12-31 00:00:00', 'lusu', 0, 0);
 INSERT INTO "zhangong" VALUES('rs', '肉山', 5, '使用董卓在1局游戏中使用杀杀死至少3名女性角色', 0, 'qun', '1999-12-31 00:00:00', 'dongzhuo', 0, 0);
-INSERT INTO "zhangong" VALUES('lsgj', '乱世歌姬', 5, '使用蔡文姬在一局中发动悲歌至少4次 发动断肠并最终获胜', 0, 'wei', '1999-12-31 00:00:00', 'caiwenji', 0, 0);
+INSERT INTO "zhangong" VALUES('lsgj', '乱世歌姬', 5, '使用蔡文姬在一局中发动悲歌至少4次 发动断肠并最终获胜', 0, 'qun', '1999-12-31 00:00:00', 'caiwenji', 0, 0);
 INSERT INTO "zhangong" VALUES('fwjj', '辅吴将军', 5, '使用张昭&张纮在一局中发动直谏将至少5张装备牌置于吴势力武将装备区', 0, 'wu', '1999-12-31 00:00:00', 'erzhang', 0, 0);
 INSERT INTO "zhangong" VALUES('dzry', '大智若愚', 5, '使用刘禅每回合都发动放权并最终获胜', 0, 'shu', '1999-12-31 00:00:00', 'liushan', 0, 0);
 INSERT INTO "zhangong" VALUES('mrgs', '猛锐盖世', 5, '使用孙策在一局游戏中发动激昂摸牌至少5张并发动技能魂姿', 0, 'wu', '1999-12-31 00:00:00', 'sunce', 0, 0);
@@ -555,7 +555,7 @@ INSERT INTO zhangong VALUES('jjh', '交际花', 10, '使用孙尚香和全部其
 INSERT INTO zhangong VALUES('jjnh', '禁军难护', 10, '使用韩当在一局游戏中有角色濒死时发动“解烦”并出杀后均被闪避至少5次', 0, 'wu', '1999-12-31 00:00:00', 'handang', 0, 0);
 INSERT INTO zhangong VALUES('jjyb', '戒酒以备', 10, '使用高顺在一局游戏中使用技能“禁酒”将至少6张酒当成杀使用或打出', 0, 'qun', '1999-12-31 00:00:00', 'gaoshun', 0, 0);
 INSERT INTO zhangong VALUES('jsbc', '坚守不出', 10, '使用曹仁在一局游戏中连续8回合发动据守', 0, 'wei', '1999-12-31 00:00:00', 'caoren', 0, 0);
-INSERT INTO zhangong VALUES('jwrs', '军威如山', 10, '使用☆SP甘宁在一局游戏中发动军威累计得到过至少6张“闪”', 0, 'wu', '1999-12-31 00:00:00', 'bgm_ganning', 0, 0);
+INSERT INTO zhangong VALUES('jwrs', '军威如山', 10, '使用☆SP甘宁在一局游戏中发动军威累计得到过至少6张“闪”', 0, 'qun', '1999-12-31 00:00:00', 'bgm_ganning', 0, 0);
 INSERT INTO zhangong VALUES('jyh', '解语花', 10, '使用步练师在一局游戏中发动安恤摸八张牌以上', 0, 'wu', '1999-12-31 00:00:00', 'bulianshi', 0, 0);
 INSERT INTO zhangong VALUES('lpkd', '连破克敌', 10, '使用神司马懿在一局游戏中发动3次连破并最后获胜', 0, 'god', '1999-12-31 00:00:00', 'shensimayi', 0, 0);
 INSERT INTO zhangong VALUES('qbcs', '七步成诗', 10, '使用曹植在一局游戏中发动酒诗7次', 0, 'wei', '1999-12-31 00:00:00', 'caozhi', 0, 0);
